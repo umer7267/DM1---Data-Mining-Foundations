@@ -1,6 +1,6 @@
 # DM1 - Data Mining: Foundations
 
-In this repository, I, and my group member, implemented the basic concepts  of Data Mining on the RAVDESS dataset taught by Prof. Riccardo Guidotti in DM1 - Data Mining: Foundations course at Università di Pisa for the year 2022/23.
+In this repository, I, and my group member, implemented the basic concepts  of Data Mining on the RAVDESS dataset taught by [Prof. Riccardo Guidotti](https://scholar.google.com/citations?user=KZUaK6YAAAAJ&hl=en&oi=ao) in DM1 - Data Mining: Foundations course at Università di Pisa for the year 2022/23.
 
 ## Dataset - RAVDESS
 
