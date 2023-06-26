@@ -37,3 +37,4 @@ The dataset was created from the RAVDESS dataset ([https://zenodo.org/record/118
 * Clustering
 * Classification
 * Pattern Mining and Association Rules
+* Regression
