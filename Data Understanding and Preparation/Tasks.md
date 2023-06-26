@@ -5,6 +5,6 @@
 ### Assessing data quality
   * Are present errors, outliers, missing values, semantic inconsistencies, etc?
 ### Variable transformations
-  * Is it better to use for further modules transformed variables (e.g., log-transformated)?
+  * Is it better to use for further modules transformed variables (e.g., log transformation)?
 ### Pairwise correlations and eventual elimination of variables
-  * Matrix correlation (analyse high correlated variables);
+  * Matrix correlation (analyze highly correlated variables);
