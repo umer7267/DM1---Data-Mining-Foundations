@@ -38,3 +38,8 @@ The dataset was created from the RAVDESS dataset ([https://zenodo.org/record/118
 * Classification
 * Pattern Mining and Association Rules
 * Regression
+
+## Collaborators
+
+<a href="https://github.com/umer7267" target="_blank">Hafiz Muhammad Umer</a> <br>
+<a href="https://github.com/nimra709" target="_blank">Nimra Nawaz</a>
